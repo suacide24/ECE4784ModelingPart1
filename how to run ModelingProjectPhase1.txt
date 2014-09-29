@@ -1,0 +1,3 @@
+HOW TO RUN CODE
+
+c.	The model was created using Matlab R2014a (8.3.0.532) by MathWorks.  In order to run the simulation, download and open ModelingPhase1.m file from GitHub.  Making sure you are in the directory of the .m file, enter ModelingPhase1(input) on the Matlab command line with input being the problem number you wish to simulate.  For example, if you would like to simulate the 2nd problem, type ModelingPhase1(2) in the command line.  For each problem, two graphs should be created with one showing the membrane potential while the other showing the conductance of potassium and sodium.
